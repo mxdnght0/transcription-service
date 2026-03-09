@@ -3,7 +3,7 @@ package audio_service
 import (
 	"io"
 
-	"github.com/transcription-service/proto"
+	"github.com/mxdnght0/transcription-service/proto"
 )
 
 type GrpcStreamReader struct {

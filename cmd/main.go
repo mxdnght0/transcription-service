@@ -6,12 +6,12 @@ import (
 	"os"
 	"os/signal"
 
-	"github.com/transcription-service/internal/application/service"
-	audio_service "github.com/transcription-service/internal/infrastructure/audio-service"
-	"github.com/transcription-service/internal/infrastructure/publisher"
-	"github.com/transcription-service/internal/infrastructure/transcriber"
-	"github.com/transcription-service/internal/presentation"
-	"github.com/transcription-service/proto"
+	"github.com/mxdnght0/transcription-service/internal/application/service"
+	audio_service "github.com/mxdnght0/transcription-service/internal/infrastructure/audio-service"
+	"github.com/mxdnght0/transcription-service/internal/infrastructure/publisher"
+	"github.com/mxdnght0/transcription-service/internal/infrastructure/transcriber"
+	"github.com/mxdnght0/transcription-service/internal/presentation"
+	"github.com/mxdnght0/transcription-service/proto"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials/insecure"
 )

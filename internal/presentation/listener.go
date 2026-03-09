@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"log"
 
-	"github.com/transcription-service/internal/application/interfaces"
+	"github.com/mxdnght0/transcription-service/internal/application/interfaces"
 	"github.com/nats-io/nats.go"
 )
 

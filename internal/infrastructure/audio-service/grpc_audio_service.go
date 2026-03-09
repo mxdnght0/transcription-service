@@ -4,7 +4,7 @@ import (
 	"context"
 	"io"
 
-	"github.com/transcription-service/proto"
+	"github.com/mxdnght0/transcription-service/proto"
 )
 
 type GrpcAudioService struct {

@@ -1,4 +1,4 @@
-module github.com/transcription-service
+module github.com/mxdnght0/transcription-service
 
 go 1.25.4
 

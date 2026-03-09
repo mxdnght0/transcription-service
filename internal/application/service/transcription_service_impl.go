@@ -3,7 +3,7 @@ package service
 import (
 	"context"
 
-	"github.com/transcription-service/internal/application/interfaces"
+	"github.com/mxdnght0/transcription-service/internal/application/interfaces"
 )
 
 type transcriptionService struct {
